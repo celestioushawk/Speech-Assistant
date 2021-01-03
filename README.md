@@ -10,8 +10,13 @@ You can use commands such as:
 Packages required:
 
 -gTTS
+
 -speech_recognition
+
 -playsound
+
 -wikipedia
+
 -requests
+
 -json
